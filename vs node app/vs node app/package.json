@@ -1,0 +1,9 @@
+{
+  "name": "vs-node-app",
+  "version": "0.0.0",
+  "description": "vs node app",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
